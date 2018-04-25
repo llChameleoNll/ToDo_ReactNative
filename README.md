@@ -1,2 +1,2 @@
-# ToDo_ReactNative
-This is a ToDo app with React-Native.
+# ToDo
+This is a ToDo app with React-Native and Expo.
